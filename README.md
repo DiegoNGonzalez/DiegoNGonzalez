@@ -1,4 +1,4 @@
- 👋 Hola, soy @DiegoNGonzalez
+- 👋 Hola, soy @DiegoNGonzalez
 - 👀 Estoy interesado en el desarrollo web y la programación
 - 🌱 Me encuentro aprendiendo HTML, CSS, Javascipt, React y Firebase
 - 💞️ Busco colaborar en proyectos web para reforzar mis conocimientos y aprender de la dinamica en equipo
@@ -6,7 +6,7 @@
 
 
 
--👋 Hi, I’m @DiegoNGonzalez
+- 👋 Hi, I’m @DiegoNGonzalez
 - 👀 I’m interested in Web Development and programming
 - 🌱 I’m currently learning HTML, CSS, Javascript, React and Firebase
 - 💞️ I’m looking to collaborate on web project´s and learn about team dinamic
