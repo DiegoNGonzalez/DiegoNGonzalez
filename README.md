@@ -4,7 +4,7 @@
 - 💞️ Busco colaborar en proyectos web para reforzar mis conocimientos y aprender de la dinamica en equipo
 - 📫 Por cualquier asunto me pueden encontrar en diegonzalezv93@gmail.com o @Diegueloper en Twitter 
 
-
+--------------------------------------------------------------------------------------------------------------------
 
 - 👋 Hi, I’m @DiegoNGonzalez
 - 👀 I’m interested in Web Development and programming
