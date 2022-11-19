@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegongonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="diegongonzalez" /> </p>
 
-<p align="left"> <a href="https://twitter.com/diegueloper" target="blank"><img src="https://img.shields.io/twitter/follow/diegueloper?logo=twitter&style=for-the-badge" alt="diegueloper" /></a> </p>
+<p align="left"> <a href="https://twitter.com/diegonzalezdev" target="blank"><img src="https://img.shields.io/twitter/follow/diegueloper?logo=twitter&style=for-the-badge" alt="diegueloper" /></a> </p>
 
 - 🔭 I’m currently working on [ToCRUD app](https://github.com/DiegoNGonzalez/crud-firebase-react)
 
