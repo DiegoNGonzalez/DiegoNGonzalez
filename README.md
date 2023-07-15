@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/diegonzalezdev" target="blank"><img src="https://img.shields.io/twitter/follow/diegonzalezdev?logo=twitter&style=for-the-badge" alt="diegonzalezdev" /></a> </p>
 
-- 🔭 I’m currently working on [ToCRUD app](https://github.com/DiegoNGonzalez/crud-firebase-react)
+- 🔭 I’m currently working on [Curso c# nivel 2](https://github.com/DiegoNGonzalez/CursoCSharp2)
 
 - 🌱 I’m currently learning **React Js, Firebase, Typescript**
 
