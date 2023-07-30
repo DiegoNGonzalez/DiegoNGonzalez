@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Curso c# nivel 2](https://github.com/DiegoNGonzalez/CursoCSharp2)
 
-- 🌱 I’m currently learning **React Js, Firebase, Typescript**
+- 🌱 I’m currently learning **C#, .NET core and ASP.NET**
 
 - 💞️ I’m looking to collaborate on web project´s and learn about team dinamic
 
