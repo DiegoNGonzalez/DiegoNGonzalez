@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQHi_XVo2-ba9A/profile-displaybackgroundimage-shrink_350_1400/0/1668384798180?e=1674086400&v=beta&t=GGu0HVh6kYY8TXUnDP6IoapAdydSMMJ89RxfOeCmAoY)
+![MasterHead](https://user-images.githubusercontent.com/5120290/213342525-d7aefbd0-1068-47bd-8a53-f0fb6f61a0dd.png)
 <h1 align="center">Hi 👋, I'm Diego N. Gonzalez</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 <img align="right" alt="Codificación" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/Front-End-Developers.gif" />
