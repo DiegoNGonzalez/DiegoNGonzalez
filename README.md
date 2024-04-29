@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/5120290/213342525-d7aefbd0-1068-47bd-8a53-f0fb6f61a0dd.png)
 <h1 align="center">Hi 👋, I'm Diego N. Gonzalez</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate developer from Argentina</h3>
 <img align="right" alt="Codificación" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/Front-End-Developers.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegongonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="diegongonzalez" /> </p>
